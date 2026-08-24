@@ -1,1 +1,4 @@
-
+__pychache__/ 
+*.pyc
+.idea/ #for pycharm
+.vscode #for VS code
